@@ -1,3 +1,5 @@
 # Hi I am Szymon
-## I'm a student at western tech
-I like plants
+## about me
+* I'm a student at western tech
+* I'm in class ICS4U-1
+* I like plants
