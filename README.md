@@ -3,3 +3,5 @@
 * I'm a student at western tech
 * I'm in class ICS4U-1
 * I like plants 🌿
+### contact
+email: szymon.boczon@student.tdsb.on.ca
